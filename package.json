@@ -15,9 +15,11 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "contributors": [
     "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
-    "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
+    "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+    "Morgan Dilling <morgan@morgandilling.dev> (https://morgandilling.dev)"
   ],
   "main": "index.json",
+  "type": "module",
   "bin": {
     "words": "./cli.js",
     "an-array-of-english-words": "./cli.js"
